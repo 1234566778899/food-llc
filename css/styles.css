@@ -1,0 +1,59 @@
+* {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.body {
+    background-color: #F7F8F9;
+}
+.navbar{
+    position: sticky;
+    top: -100px;
+}
+.section-chicken>div {
+    background: white;
+    border: 1px solid #E6EBF1;
+    padding: 20px;
+}
+
+.section-chicken p {
+    color: #35333C;
+}
+
+.section-chicken h3 {
+    font-weight: bold;
+    color: #FF441F;
+}
+
+.nav-link {
+    color: #FF441F;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    color: #FF441F;
+}
+
+.menu {
+    background-color: #FFF2E5;
+    color: #2E2C36;
+}
+
+.menu>h1 {
+    background: none;
+    font-weight: bold;
+}
+
+.btn-volver {
+    text-decoration: none;
+    outline: none;
+    border: none;
+    background: #29D884;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.btn-volver:hover {
+    color: white;
+}
